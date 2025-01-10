@@ -1,0 +1,23 @@
+{
+  "name": "kizz",
+  "version": "1.0.0",
+  "description": "Jeux des kizz un jeu de  QCM basé sur les domaines de connaissance suivant :   - Informatique - zoologie - mathématique - Algorithmique",
+  "main": "tailwind.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Franckkasongo15/Kizz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Franckkasongo15/Kizz/issues"
+  },
+  "homepage": "https://github.com/Franckkasongo15/Kizz#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
